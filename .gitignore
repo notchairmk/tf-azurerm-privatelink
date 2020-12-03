@@ -2,6 +2,7 @@
 *.auto.tfvars
 *.tfstate
 *.tfstate.backup
+backend.tfvars
 .terraform.tfstate.lock.info
 .vscode/
 tfplan
